@@ -1,5 +1,6 @@
 # Coding_Challenge-1
-Build your own blockchain competition
+
+### Build your own blockchain competition
 
 The wonderful submissions from some of the Zero-to-Mastery students on the very first coding challenge. We have included their slack handle names if you want to say hi to them on our slack community!
 
