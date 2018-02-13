@@ -23,9 +23,9 @@ The wonderful submissions from some of the Zero-to-Mastery students on the very 
 
 @Rohan Coding Challenge #1 Submission: https://fakestarter.herokuapp.com/ 
 
-## What was the Challenge?:
+## What was the Challenge?
 
-###The Rules Are:
+### The Rules Are:
 
 1. You have until Feb 9th at midnight EST to submit your website (using Github pages to put it online. If you don't know how to do that, check out Lecture 66 in the course). You will have to submit the link to the #coding_challenge slack group with the following message:  "Coding Challenge#1 Submission:<your link here> check it out @Andrei Neagoie". Submissions not following the above rules will not be judged. 
 
@@ -33,7 +33,7 @@ The wonderful submissions from some of the Zero-to-Mastery students on the very 
 
 3. The top 3 winners will be picked by myself and some of the team members of Creative Tim at our own discretion and announced a few days after Feb 9th when the contest ends. The three students will receive the Big Bundle for free from Creative Tim. 
 
-###The Challenge:
+### The Challenge:
 
 Using the free Material Kit (http://demos.creative-tim.com/material-kit/index.html) you will have to build something like this: https://blockchaindemo.io.
 
