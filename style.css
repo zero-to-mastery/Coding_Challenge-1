@@ -1,0 +1,10 @@
+body{
+	background-color: rgba(35, 106, 101,0.5);
+}
+h1{
+	text-align: center;
+	margin-top: 200px;
+	width: 100px;
+	height: 100px;
+    padding: 100px,100px;
+}
